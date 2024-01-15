@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(230, 216, 216);
+    align-items: center;
+    text-align: center;
+    width: fit-content;
+    padding: auto;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+img{
+    width: 50%;
+
+}
+.img{
+    text-align: center;
+}

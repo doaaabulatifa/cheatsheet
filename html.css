@@ -1,0 +1,53 @@
+body{
+    background-color: aliceblue;
+
+    
+
+}
+.into , h2{
+    text-align: center;
+    color: rgb(107, 11, 163);
+
+}
+table{
+    border: darkslategray;
+    border-style: solid;
+    border-collapse: collapse;
+    display: table;
+margin: 0 auto;
+    
+}
+
+
+span{
+    
+    font-size: 20px;
+    font-style: italic;
+    color:brown;
+    margin: auto;
+    text-align: center;
+
+    
+}
+th{
+    border: 2px solid;
+    background-color: rgb(28, 170, 170);
+    text-align: center;
+    
+}
+
+
+ td{
+
+    border:2px solid;
+    text-align: left;
+    font-style: italic;
+    padding: 5px;
+}
+
+.tagname{
+    color: blue;
+    background-color: rgb(203, 209, 209);
+    font-size: medium;
+    
+}
